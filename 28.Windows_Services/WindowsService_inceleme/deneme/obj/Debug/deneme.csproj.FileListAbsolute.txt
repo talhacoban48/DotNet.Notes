@@ -1,0 +1,11 @@
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\deneme.exe.config
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\deneme.exe
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\deneme.pdb
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\WindowsService_inceleme.exe
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\WindowsService_inceleme.pdb
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\bin\Debug\WindowsService_inceleme.exe.config
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\obj\Debug\deneme.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\obj\Debug\deneme.exe
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\deneme\obj\Debug\deneme.pdb

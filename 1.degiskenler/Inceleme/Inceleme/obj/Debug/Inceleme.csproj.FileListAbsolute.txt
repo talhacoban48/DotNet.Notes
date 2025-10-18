@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\bin\Debug\Inceleme.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\bin\Debug\Inceleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\bin\Debug\Inceleme.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\obj\Debug\Inceleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\Inceleme\Inceleme\obj\Debug\Inceleme.pdb

@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\bin\Debug\xmlRead.exe.config
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\bin\Debug\xmlRead.exe
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\bin\Debug\xmlRead.pdb
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\obj\Debug\xmlRead.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\obj\Debug\xmlRead.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\obj\Debug\xmlRead.exe
+C:\Users\Talha\Desktop\C#\16.xml\xml\xmlRead\obj\Debug\xmlRead.pdb

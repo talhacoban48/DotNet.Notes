@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\bin\Debug\innerType_modelleme.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\bin\Debug\innerType_modelleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\bin\Debug\innerType_modelleme.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\obj\Debug\innerType_modelleme.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\obj\Debug\innerType_modelleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\obj\Debug\innerType_modelleme.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\obj\Debug\innerType_modelleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\innerType_modelleme\innerType_modelleme\obj\Debug\innerType_modelleme.pdb

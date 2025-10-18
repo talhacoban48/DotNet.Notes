@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\bin\Debug\linq.exe.config
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\bin\Debug\linq.exe
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\bin\Debug\linq.pdb
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\bin\Debug\FakeData.dll
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\bin\Debug\FakeData.pdb
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\obj\Debug\linq.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\obj\Debug\linq.exe
+C:\Users\Talha\Desktop\C#\14.Linq\linq\linq\obj\Debug\linq.pdb

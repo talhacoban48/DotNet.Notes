@@ -1,0 +1,4 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installUtil.exe C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\bin\Debug\WindowsService_inceleme.exe -i
+
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installUtil.exe C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\bin\Debug\WindowsService_inceleme.exe -u

@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\bin\Debug\tuple_kullanimi.exe.config
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\bin\Debug\tuple_kullanimi.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\bin\Debug\tuple_kullanimi.pdb
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\obj\Debug\tuple_kullanimi.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\obj\Debug\tuple_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\obj\Debug\tuple_kullanimi.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\tuple_kullanimi\obj\Debug\tuple_kullanimi.pdb

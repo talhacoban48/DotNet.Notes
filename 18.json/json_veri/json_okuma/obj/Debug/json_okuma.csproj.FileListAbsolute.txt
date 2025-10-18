@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\bin\Debug\json_okuma.exe.config
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\bin\Debug\json_okuma.exe
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\bin\Debug\json_okuma.pdb
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\obj\Debug\json_okuma.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\obj\Debug\json_okuma.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\obj\Debug\json_okuma.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\obj\Debug\json_okuma.exe
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_okuma\obj\Debug\json_okuma.pdb

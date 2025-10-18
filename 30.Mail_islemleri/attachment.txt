@@ -1,0 +1,1 @@
+Tebrikler, C# ile mail üzerinden attachment dosyası aldın. Götün arşa erdi mi?

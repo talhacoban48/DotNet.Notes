@@ -1,0 +1,16 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\obj\Debug\degiskenler.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\degiskenler\degiskenler\obj\Debug\degiskenler.pdb

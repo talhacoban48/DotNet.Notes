@@ -1,0 +1,11 @@
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\bin\Debug\net8.0\matematikselislemler.deps.json
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\bin\Debug\net8.0\matematikselislemler.dll
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\bin\Debug\net8.0\matematikselislemler.pdb
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.AssemblyInfo.cs
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.dll
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\refint\matematikselislemler.dll
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\matematikselislemler.pdb
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\matematikselislemler\obj\Debug\net8.0\ref\matematikselislemler.dll

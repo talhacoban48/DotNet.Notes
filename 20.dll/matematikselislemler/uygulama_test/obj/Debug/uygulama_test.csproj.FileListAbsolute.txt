@@ -1,0 +1,9 @@
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\bin\Debug\uygulama_test.exe.config
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\bin\Debug\uygulama_test.exe
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\bin\Debug\uygulama_test.pdb
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\bin\Debug\matematikselislemler.dll
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\obj\Debug\uygulama_test.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\obj\Debug\uygulama_test.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\obj\Debug\uygulama_test.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\obj\Debug\uygulama_test.exe
+C:\Users\Talha\Desktop\C#\20.dll\matematikselislemler\uygulama_test\obj\Debug\uygulama_test.pdb

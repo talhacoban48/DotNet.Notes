@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe.config
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.exe
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\bin\Debug\RSSOkumaUygulamasi.pdb
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.exe
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.pdb
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\RSSOkumaUygulamasi\RSSOkumaUygulamasi\obj\Debug\RSSOkumaUygulamasi.Haberler.resources

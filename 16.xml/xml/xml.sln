@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlWriter", "xml\xmlWriter.csproj", "{39F598A4-CAFE-4BDA-9DF8-288939CCEEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlRead", "xmlRead\xmlRead.csproj", "{A5651CB5-A3B0-4899-8EAE-866885D5E7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F598A4-CAFE-4BDA-9DF8-288939CCEEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F598A4-CAFE-4BDA-9DF8-288939CCEEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F598A4-CAFE-4BDA-9DF8-288939CCEEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F598A4-CAFE-4BDA-9DF8-288939CCEEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5651CB5-A3B0-4899-8EAE-866885D5E7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5651CB5-A3B0-4899-8EAE-866885D5E7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5651CB5-A3B0-4899-8EAE-866885D5E7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5651CB5-A3B0-4899-8EAE-866885D5E7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {316BB41E-C5C1-40BD-846A-C6D858255763}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\bin\Debug\var_anahtar_kelimesi.exe.config
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\bin\Debug\var_anahtar_kelimesi.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\bin\Debug\var_anahtar_kelimesi.pdb
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\obj\Debug\var_anahtar_kelimesi.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\obj\Debug\var_anahtar_kelimesi.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\obj\Debug\var_anahtar_kelimesi.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\var_anahtar_kelimesi\obj\Debug\var_anahtar_kelimesi.pdb

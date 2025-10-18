@@ -1,0 +1,11 @@
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\bin\Debug\FormKontrolleriInceleme.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\bin\Debug\FormKontrolleriInceleme.exe
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\bin\Debug\FormKontrolleriInceleme.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.exe
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\FormKontrolleriInceleme\FormKontrolleriInceleme\obj\Debug\FormKontrolleriInceleme.frmOnizlemeKayıt.resources

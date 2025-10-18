@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RehberKayitlar>
+  <Kayit>
+    <ID>5e4d7e0e-3c7d-487d-9ca8-247e44009ea9</ID>
+    <isim>Fatma</isim>
+    <soyisim>Kadıoğlu</soyisim>
+    <Telefon1>5314567892</Telefon1>
+    <Telefon2></Telefon2>
+    <Telefon3>5439517535</Telefon3>
+    <Email>ekrem.94@gmail.com</Email>
+    <Website>www.ekrem.com.tr</Website>
+    <Adres></Adres>
+    <Aciklama></Aciklama>
+  </Kayit>
+  <Kayit>
+    <ID>f33b22f0-7f1e-4be6-8e75-3c62045bda64</ID>
+    <isim>TALHA</isim>
+    <soyisim>ÇOBAN</soyisim>
+    <Telefon1>5433516224</Telefon1>
+    <Telefon2>5309596348</Telefon2>
+    <Telefon3></Telefon3>
+    <Email></Email>
+    <Website></Website>
+    <Adres>If you are still having issues, double-check the SQL Server instance configuration, and consider resetting the 'sa' password or creating a new SQL Server login with the necessary permissions if needed. Additionally, ensure that your SQL Server is configured to allow remote connections if you are connecting from a dif</Adres>
+    <Aciklama>If you are still having issues, double-check the SQL Server instance configuration, and consider resetting the 'sa' password or creating a new SQL Server login with the necessary permissions if needed. Additionally, ensure that your SQL Server is configured to allow remote connections if you are connecting from a dif</Aciklama>
+  </Kayit>
+  <Kayit>
+    <ID>a118e4aa-7267-48f4-8285-43679a0371c7</ID>
+    <isim>Talha</isim>
+    <soyisim>ÇOBAN</soyisim>
+    <Telefon1>5433516224</Telefon1>
+    <Telefon2>5309596348</Telefon2>
+    <Telefon3></Telefon3>
+    <Email>cobantalha19@gmail.com</Email>
+    <Website></Website>
+    <Adres>from a dif</Adres>
+    <Aciklama>If you are still having issues, double-check the SQL Server instance configuration, and consider resetting the 'sa' password or creating a new SQL Server login with the necessary permissions if needed. Additionally, ensure that your SQL Server is configured to allow remote connections if you are connecting from a dif</Aciklama>
+  </Kayit>
+  <Kayit>
+    <ID>294c09cb-d39f-4946-917b-e4a76ed20f24</ID>
+    <isim>Ekrem</isim>
+    <soyisim>Dayıoğlu</soyisim>
+    <Telefon1>5314567892</Telefon1>
+    <Telefon2></Telefon2>
+    <Telefon3></Telefon3>
+    <Email>ekrem.94@gmail.com</Email>
+    <Website>www.ekrem.com.tr</Website>
+    <Adres></Adres>
+    <Aciklama></Aciklama>
+  </Kayit>
+</RehberKayitlar>

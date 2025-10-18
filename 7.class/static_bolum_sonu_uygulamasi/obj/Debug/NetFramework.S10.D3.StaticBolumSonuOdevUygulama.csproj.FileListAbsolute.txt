@@ -1,0 +1,15 @@
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe.config
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.pdb
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.csprojResolveAssemblyReference.cache
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.csproj.CoreCompileInputs.cache
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe
+F:\BitBucket\education\csharpprogramlama\NetFramework.S10.D3.StaticBolumSonuOdevUygulama\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\bin\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\static_bolum_sonu_uygulamasi\obj\Debug\NetFramework.S10.D3.StaticBolumSonuOdevUygulama.pdb

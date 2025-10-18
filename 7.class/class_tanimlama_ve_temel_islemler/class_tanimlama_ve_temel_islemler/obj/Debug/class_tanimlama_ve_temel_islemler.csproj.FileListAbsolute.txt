@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\obj\Debug\class_tanimlama_ve_temel_islemler.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\obj\Debug\class_tanimlama_ve_temel_islemler.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\obj\Debug\class_tanimlama_ve_temel_islemler.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\bin\Debug\class_tanimlama_ve_temel_islemler.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\bin\Debug\class_tanimlama_ve_temel_islemler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\bin\Debug\class_tanimlama_ve_temel_islemler.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\obj\Debug\class_tanimlama_ve_temel_islemler.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\class_tanimlama_ve_temel_islemler\class_tanimlama_ve_temel_islemler\obj\Debug\class_tanimlama_ve_temel_islemler.pdb

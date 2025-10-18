@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\bin\Debug\personel_uygulamasi.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\bin\Debug\personel_uygulamasi.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\bin\Debug\personel_uygulamasi.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\obj\Debug\personel_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\obj\Debug\personel_uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\obj\Debug\personel_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\obj\Debug\personel_uygulamasi.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\personel_uygulamasi\personel_uygulamasi\obj\Debug\personel_uygulamasi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\bin\Debug\Mail_islemleri.exe.config
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\bin\Debug\Mail_islemleri.exe
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\bin\Debug\Mail_islemleri.pdb
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\obj\Debug\Mail_islemleri.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\obj\Debug\Mail_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\obj\Debug\Mail_islemleri.exe
+C:\Users\Talha\Desktop\C#\30.Mail_islemleri\Mail_islemleri\Mail_islemleri\obj\Debug\Mail_islemleri.pdb

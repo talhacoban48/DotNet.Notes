@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\bin\Debug\for_dongusu.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\bin\Debug\for_dongusu.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\bin\Debug\for_dongusu.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\obj\Debug\for_dongusu.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\obj\Debug\for_dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\obj\Debug\for_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\obj\Debug\for_dongusu.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\for_dongusu\for_dongusu\obj\Debug\for_dongusu.pdb

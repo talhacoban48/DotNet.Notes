@@ -1,0 +1,15 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\Enum\Enum\obj\Debug\Enum.pdb
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Talha\Desktop\C#\7.class\Enum\Enum\obj\Debug\Enum.pdb

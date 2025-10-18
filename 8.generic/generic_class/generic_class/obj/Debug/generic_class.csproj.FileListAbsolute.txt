@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\bin\Debug\generic_class.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\bin\Debug\generic_class.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\bin\Debug\generic_class.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\obj\Debug\generic_class.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\obj\Debug\generic_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\obj\Debug\generic_class.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\obj\Debug\generic_class.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\generic\generic_class\generic_class\obj\Debug\generic_class.pdb

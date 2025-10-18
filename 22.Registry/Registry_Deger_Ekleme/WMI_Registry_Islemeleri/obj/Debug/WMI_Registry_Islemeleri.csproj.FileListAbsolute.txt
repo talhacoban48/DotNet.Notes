@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\bin\Debug\WMI_Registry_Islemeleri.exe.config
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\bin\Debug\WMI_Registry_Islemeleri.exe
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\bin\Debug\WMI_Registry_Islemeleri.pdb
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\obj\Debug\WMI_Registry_Islemeleri.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\obj\Debug\WMI_Registry_Islemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\obj\Debug\WMI_Registry_Islemeleri.exe
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\WMI_Registry_Islemeleri\obj\Debug\WMI_Registry_Islemeleri.pdb

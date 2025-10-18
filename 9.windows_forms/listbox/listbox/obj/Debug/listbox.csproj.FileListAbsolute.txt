@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\bin\Debug\listbox.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\Talha\Desktop\C#\windows_forms\listbox\listbox\obj\Debug\listbox.pdb

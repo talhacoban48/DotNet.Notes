@@ -1,0 +1,6 @@
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\bin\udemy.webServisOrnekUygulama.dll.config
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\bin\udemy.webServisOrnekUygulama.dll
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\bin\udemy.webServisOrnekUygulama.pdb
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\obj\Debug\udemy.webServisOrnekUygulama.csprojResolveAssemblyReference.cache
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\obj\Debug\udemy.webServisOrnekUygulama.dll
+C:\Users\Cengiz\Desktop\webServisler\udemy.webServisOrnekUygulama\udemy.webServisOrnekUygulama\obj\Debug\udemy.webServisOrnekUygulama.pdb

@@ -1,0 +1,4 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installUtil.exe C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.ApiService.exe -i
+
+
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installUtil.exe C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.ApiService.exe -u

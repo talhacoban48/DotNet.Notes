@@ -1,0 +1,17 @@
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.WindowsApp.exe.config
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.WindowsApp.exe
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.WindowsApp.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.Core.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.Entities.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.Core.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Doviz.Entities.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.Form1.resources
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.exe
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.WindowsApp\obj\Debug\Doviz.WindowsApp.pdb

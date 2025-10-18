@@ -1,0 +1,14 @@
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\bin\Debug\PromosyonTakip.UI.exe.config
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\bin\Debug\PromosyonTakip.UI.exe
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\bin\Debug\PromosyonTakip.UI.pdb
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\bin\Debug\PromosyonTakip.Core.dll
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\bin\Debug\PromosyonTakip.Core.pdb
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.AnaEkran.resources
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.KullaniciGiris.resources
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.exe
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.UI\obj\Debug\PromosyonTakip.UI.pdb

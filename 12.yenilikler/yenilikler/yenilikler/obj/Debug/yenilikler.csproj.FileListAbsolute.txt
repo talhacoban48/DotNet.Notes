@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\bin\Debug\yenilikler.exe.config
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\bin\Debug\yenilikler.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\bin\Debug\yenilikler.pdb
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\obj\Debug\yenilikler.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\obj\Debug\yenilikler.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\obj\Debug\yenilikler.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\yenilikler\obj\Debug\yenilikler.pdb

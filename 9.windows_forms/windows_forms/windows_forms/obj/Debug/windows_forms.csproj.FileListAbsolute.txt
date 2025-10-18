@@ -1,0 +1,11 @@
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\bin\Debug\windows_forms.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\bin\Debug\windows_forms.exe
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\bin\Debug\windows_forms.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.exe
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\windows_forms\windows_forms\obj\Debug\windows_forms.merhaba_form.resources

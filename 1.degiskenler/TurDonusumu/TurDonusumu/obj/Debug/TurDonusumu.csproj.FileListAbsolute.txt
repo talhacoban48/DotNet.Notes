@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\bin\Debug\TurDonusumu.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\bin\Debug\TurDonusumu.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\bin\Debug\TurDonusumu.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\obj\Debug\TurDonusumu.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\obj\Debug\TurDonusumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\obj\Debug\TurDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\obj\Debug\TurDonusumu.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\degiskenler\TurDonusumu\TurDonusumu\obj\Debug\TurDonusumu.pdb

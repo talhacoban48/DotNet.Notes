@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\bin\Debug\xml_okuma.exe.config
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\bin\Debug\xml_okuma.exe
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\bin\Debug\xml_okuma.pdb
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\obj\Debug\xml_okuma.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\obj\Debug\xml_okuma.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\obj\Debug\xml_okuma.exe
+C:\Users\Talha\Desktop\C#\17.linq_to_xml\xml_olusturma\xml_okuma\obj\Debug\xml_okuma.pdb

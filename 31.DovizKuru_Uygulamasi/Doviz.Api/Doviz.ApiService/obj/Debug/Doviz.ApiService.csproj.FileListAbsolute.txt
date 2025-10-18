@@ -1,0 +1,16 @@
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.ApiService.exe.config
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.ApiService.exe
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.ApiService.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.Core.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.Entities.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.Core.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Doviz.Entities.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.ProjectInstaller.resources
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.exe
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.ApiService\obj\Debug\Doviz.ApiService.pdb

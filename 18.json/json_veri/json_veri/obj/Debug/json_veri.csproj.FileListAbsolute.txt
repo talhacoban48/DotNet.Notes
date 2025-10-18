@@ -1,0 +1,12 @@
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\json_veri.exe.config
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\json_veri.exe
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\json_veri.pdb
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\FakeData.dll
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\FakeData.pdb
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\obj\Debug\json_veri.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\obj\Debug\json_veri.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\obj\Debug\json_veri.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\obj\Debug\json_veri.exe
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\obj\Debug\json_veri.pdb
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\C#\18.json\json_veri\json_veri\bin\Debug\Newtonsoft.Json.xml

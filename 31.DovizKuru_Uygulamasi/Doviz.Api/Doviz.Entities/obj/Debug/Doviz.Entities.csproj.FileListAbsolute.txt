@@ -1,0 +1,6 @@
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\bin\Debug\Doviz.Entities.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\bin\Debug\Doviz.Entities.pdb
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\obj\Debug\Doviz.Entities.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\obj\Debug\Doviz.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\obj\Debug\Doviz.Entities.dll
+C:\Users\Talha\Desktop\C#\31.DovizKuru_Uygulamasi\Doviz.Api\Doviz.Entities\obj\Debug\Doviz.Entities.pdb

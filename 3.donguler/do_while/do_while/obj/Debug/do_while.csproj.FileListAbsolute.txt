@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\bin\Debug\do_while.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\bin\Debug\do_while.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\bin\Debug\do_while.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\obj\Debug\do_while.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\obj\Debug\do_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\obj\Debug\do_while.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\obj\Debug\do_while.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\donguler\do_while\do_while\obj\Debug\do_while.pdb

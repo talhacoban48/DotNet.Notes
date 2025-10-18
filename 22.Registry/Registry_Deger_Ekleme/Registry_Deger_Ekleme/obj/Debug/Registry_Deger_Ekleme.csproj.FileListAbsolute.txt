@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\bin\Debug\Registry_Deger_Ekleme.exe.config
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\bin\Debug\Registry_Deger_Ekleme.exe
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\bin\Debug\Registry_Deger_Ekleme.pdb
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\obj\Debug\Registry_Deger_Ekleme.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\obj\Debug\Registry_Deger_Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\obj\Debug\Registry_Deger_Ekleme.exe
+C:\Users\Talha\Desktop\C#\22.Registry\Registry_Deger_Ekleme\Registry_Deger_Ekleme\obj\Debug\Registry_Deger_Ekleme.pdb

@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\bin\Debug\messagebox_uygulama.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\bin\Debug\messagebox_uygulama.exe
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\bin\Debug\messagebox_uygulama.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.exe
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox_uygulama\messagebox_uygulama\obj\Debug\messagebox_uygulama.pdb

@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\bin\Debug\DinamikFormElemanlari.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\bin\Debug\DinamikFormElemanlari.exe
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\bin\Debug\DinamikFormElemanlari.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.exe
+C:\Users\Talha\Desktop\C#\windows_forms\DinamikFormElemanlari\DinamikFormElemanlari\obj\Debug\DinamikFormElemanlari.pdb

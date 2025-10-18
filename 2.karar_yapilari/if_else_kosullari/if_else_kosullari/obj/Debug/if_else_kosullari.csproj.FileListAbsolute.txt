@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\bin\Debug\if_else_kosullari.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\bin\Debug\if_else_kosullari.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\bin\Debug\if_else_kosullari.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\obj\Debug\if_else_kosullari.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\obj\Debug\if_else_kosullari.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\obj\Debug\if_else_kosullari.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\obj\Debug\if_else_kosullari.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\if_else_kosullari\if_else_kosullari\obj\Debug\if_else_kosullari.pdb

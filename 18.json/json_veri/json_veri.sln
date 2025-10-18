@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json_veri", "json_veri\json_veri.csproj", "{E16EBDE0-C97E-4466-9DF3-7472CD83B037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json_okuma", "json_okuma\json_okuma.csproj", "{490B9A3D-B4ED-40F9-832B-6EE826FF79E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16EBDE0-C97E-4466-9DF3-7472CD83B037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16EBDE0-C97E-4466-9DF3-7472CD83B037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16EBDE0-C97E-4466-9DF3-7472CD83B037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16EBDE0-C97E-4466-9DF3-7472CD83B037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490B9A3D-B4ED-40F9-832B-6EE826FF79E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B9A3D-B4ED-40F9-832B-6EE826FF79E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B9A3D-B4ED-40F9-832B-6EE826FF79E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B9A3D-B4ED-40F9-832B-6EE826FF79E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA304FD-BE19-4969-B886-2953983425A8}
+	EndGlobalSection
+EndGlobal

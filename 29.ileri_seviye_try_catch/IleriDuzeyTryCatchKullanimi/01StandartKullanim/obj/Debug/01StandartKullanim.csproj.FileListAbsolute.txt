@@ -1,0 +1,6 @@
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\bin\Debug\01StandartKullanim.exe.config
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\bin\Debug\01StandartKullanim.exe
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\bin\Debug\01StandartKullanim.pdb
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\obj\Debug\01StandartKullanim.csprojResolveAssemblyReference.cache
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\obj\Debug\01StandartKullanim.exe
+C:\Udemy\IleriDuzeyTryCatchKullanimi\01StandartKullanim\obj\Debug\01StandartKullanim.pdb

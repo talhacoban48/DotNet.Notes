@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\bin\Debug\değişkenler2.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\bin\Debug\değişkenler2.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\bin\Debug\değişkenler2.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\obj\Debug\değişkenler2.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\obj\Debug\değişkenler2.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\obj\Debug\değişkenler2.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\obj\Debug\değişkenler2.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\değişkenler2\değişkenler2\obj\Debug\değişkenler2.pdb

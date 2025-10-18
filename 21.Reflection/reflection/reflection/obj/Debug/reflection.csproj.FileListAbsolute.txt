@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\bin\Debug\reflection.exe.config
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\bin\Debug\reflection.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\bin\Debug\reflection.pdb
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\obj\Debug\reflection.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\obj\Debug\reflection.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\obj\Debug\reflection.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection\reflection\obj\Debug\reflection.pdb

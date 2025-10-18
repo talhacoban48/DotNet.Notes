@@ -1,0 +1,15 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.pdb
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\Talha\Desktop\C#\7.class\kapsulleme\kapsulleme\obj\Debug\kapsulleme.pdb

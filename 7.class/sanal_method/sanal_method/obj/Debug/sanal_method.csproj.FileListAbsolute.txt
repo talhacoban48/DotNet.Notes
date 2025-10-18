@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\bin\Debug\sanal_method.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\bin\Debug\sanal_method.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\bin\Debug\sanal_method.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\obj\Debug\sanal_method.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\obj\Debug\sanal_method.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\obj\Debug\sanal_method.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\obj\Debug\sanal_method.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method\sanal_method\obj\Debug\sanal_method.pdb

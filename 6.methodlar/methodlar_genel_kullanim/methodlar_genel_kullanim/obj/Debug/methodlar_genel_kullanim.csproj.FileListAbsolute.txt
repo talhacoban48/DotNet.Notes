@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\bin\Debug\methodlar_genel_kullanim.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\bin\Debug\methodlar_genel_kullanim.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\bin\Debug\methodlar_genel_kullanim.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\obj\Debug\methodlar_genel_kullanim.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\obj\Debug\methodlar_genel_kullanim.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\obj\Debug\methodlar_genel_kullanim.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\obj\Debug\methodlar_genel_kullanim.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\methodlar\methodlar_genel_kullanim\methodlar_genel_kullanim\obj\Debug\methodlar_genel_kullanim.pdb

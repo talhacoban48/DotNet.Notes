@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\bin\Debug\arrayliste.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\bin\Debug\arrayliste.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\bin\Debug\arrayliste.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\obj\Debug\arrayliste.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\obj\Debug\arrayliste.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\obj\Debug\arrayliste.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\obj\Debug\arrayliste.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\koleksiyonlar\standart_koleksiyonlar\arrayliste\arrayliste\obj\Debug\arrayliste.pdb

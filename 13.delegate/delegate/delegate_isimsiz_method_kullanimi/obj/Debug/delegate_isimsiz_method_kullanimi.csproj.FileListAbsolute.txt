@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\bin\Debug\delegate_isimsiz_method_kullanimi.exe.config
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\bin\Debug\delegate_isimsiz_method_kullanimi.exe
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\bin\Debug\delegate_isimsiz_method_kullanimi.pdb
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\obj\Debug\delegate_isimsiz_method_kullanimi.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\obj\Debug\delegate_isimsiz_method_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\obj\Debug\delegate_isimsiz_method_kullanimi.exe
+C:\Users\Talha\Desktop\C#\13.delegate\delegate\delegate_isimsiz_method_kullanimi\obj\Debug\delegate_isimsiz_method_kullanimi.pdb

@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\bin\Debug\sanal_method_olusturmak.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\bin\Debug\sanal_method_olusturmak.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\bin\Debug\sanal_method_olusturmak.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\obj\Debug\sanal_method_olusturmak.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\obj\Debug\sanal_method_olusturmak.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\obj\Debug\sanal_method_olusturmak.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\obj\Debug\sanal_method_olusturmak.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\sanal_method_olusturmak\sanal_method_olusturmak\obj\Debug\sanal_method_olusturmak.pdb

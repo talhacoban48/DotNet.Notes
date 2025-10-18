@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\bin\Debug\lateBinding_islemleri.exe.config
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\bin\Debug\lateBinding_islemleri.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\bin\Debug\lateBinding_islemleri.pdb
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\obj\Debug\lateBinding_islemleri.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\obj\Debug\lateBinding_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\obj\Debug\lateBinding_islemleri.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\lateBinding_islemleri\obj\Debug\lateBinding_islemleri.pdb

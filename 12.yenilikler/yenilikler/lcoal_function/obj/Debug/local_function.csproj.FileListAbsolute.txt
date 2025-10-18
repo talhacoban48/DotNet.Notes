@@ -1,0 +1,7 @@
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\bin\Debug\lcoal_function.exe.config
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\bin\Debug\lcoal_function.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\bin\Debug\lcoal_function.pdb
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\obj\Debug\local_function.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\obj\Debug\local_function.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\obj\Debug\lcoal_function.exe
+C:\Users\Talha\Desktop\C#\yenilikler\yenilikler\lcoal_function\obj\Debug\lcoal_function.pdb

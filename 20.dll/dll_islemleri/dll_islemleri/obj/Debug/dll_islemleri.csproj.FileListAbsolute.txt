@@ -1,0 +1,8 @@
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\bin\Debug\dll_islemleri.exe.config
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\bin\Debug\dll_islemleri.exe
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\bin\Debug\dll_islemleri.pdb
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\obj\Debug\dll_islemleri.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\obj\Debug\dll_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\obj\Debug\dll_islemleri.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\obj\Debug\dll_islemleri.exe
+C:\Users\Talha\Desktop\C#\20.dll\dll_islemleri\dll_islemleri\obj\Debug\dll_islemleri.pdb

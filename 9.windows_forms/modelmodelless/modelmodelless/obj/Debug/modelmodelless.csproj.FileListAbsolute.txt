@@ -1,0 +1,11 @@
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\bin\Debug\modelmodelless.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\bin\Debug\modelmodelless.exe
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\bin\Debug\modelmodelless.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.MusteriKayitFormu.resources
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.exe
+C:\Users\Talha\Desktop\C#\windows_forms\modelmodelless\modelmodelless\obj\Debug\modelmodelless.pdb

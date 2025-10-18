@@ -1,0 +1,9 @@
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\bin\Debug\WindowsService_inceleme.exe.config
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\bin\Debug\WindowsService_inceleme.exe
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\bin\Debug\WindowsService_inceleme.pdb
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.ProjectInstaller.resources
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.exe
+C:\Users\Talha\Desktop\C#\28.Windows_Services\WindowsService_inceleme\WindowsService_inceleme\obj\Debug\WindowsService_inceleme.pdb

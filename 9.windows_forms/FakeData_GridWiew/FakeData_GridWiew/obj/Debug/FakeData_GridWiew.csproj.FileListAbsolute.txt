@@ -1,0 +1,14 @@
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\bin\Debug\FakeData_GridWiew.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\bin\Debug\FakeData_GridWiew.exe
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\bin\Debug\FakeData_GridWiew.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\bin\Debug\FakeData.dll
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\bin\Debug\FakeData.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.csproj.CopyComplete
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.exe
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\FakeData_GridWiew\FakeData_GridWiew\obj\Debug\FakeData_GridWiew.PopupMessage.resources

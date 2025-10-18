@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\obj\Debug\foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\karar_yapilari\foreach\foreach\obj\Debug\@foreach.pdb

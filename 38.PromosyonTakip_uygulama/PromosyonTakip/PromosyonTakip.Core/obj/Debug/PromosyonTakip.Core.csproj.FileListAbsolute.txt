@@ -1,0 +1,6 @@
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.dll
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.pdb
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.dll
+C:\Users\Talha\Desktop\C#\38.PromosyonTakip_uygulama\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.pdb

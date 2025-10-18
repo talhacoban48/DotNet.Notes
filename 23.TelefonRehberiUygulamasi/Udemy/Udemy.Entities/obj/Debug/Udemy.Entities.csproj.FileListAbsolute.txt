@@ -1,0 +1,6 @@
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.dll
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.pdb
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.dll
+C:\Users\Talha\Desktop\C#\23.TelefonRehberiUygulamasi\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.pdb

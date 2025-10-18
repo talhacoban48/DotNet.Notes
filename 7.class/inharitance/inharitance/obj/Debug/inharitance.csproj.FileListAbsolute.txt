@@ -1,0 +1,8 @@
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\bin\Debug\inharitance.exe.config
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\bin\Debug\inharitance.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\bin\Debug\inharitance.pdb
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\obj\Debug\inharitance.csproj.AssemblyReference.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\obj\Debug\inharitance.csproj.SuggestedBindingRedirects.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\obj\Debug\inharitance.csproj.CoreCompileInputs.cache
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\obj\Debug\inharitance.exe
+C:\Users\coban\OneDrive\Masaüstü\C#\class\inharitance\inharitance\obj\Debug\inharitance.pdb

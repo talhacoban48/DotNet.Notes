@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\bin\Debug\messagebox.exe.config
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\bin\Debug\messagebox.exe
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\bin\Debug\messagebox.pdb
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.Form1.resources
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.exe
+C:\Users\Talha\Desktop\C#\windows_forms\messagebox\messagebox\obj\Debug\messagebox.pdb

@@ -1,0 +1,10 @@
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\bin\Debug\reflection_uygulama.exe.config
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\bin\Debug\reflection_uygulama.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\bin\Debug\reflection_uygulama.pdb
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.Form1.resources
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.Properties.Resources.resources
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.exe
+C:\Users\Talha\Desktop\C#\21.Reflection\reflection_uygulama\reflection_uygulama\obj\Debug\reflection_uygulama.pdb

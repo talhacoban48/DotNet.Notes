@@ -1,0 +1,11 @@
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.exe.config
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.exe
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\bin\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.pdb
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.csprojAssemblyReference.cache
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.Form1.resources
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.Properties.Resources.resources
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.csproj.GenerateResource.cache
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.csproj.CoreCompileInputs.cache
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.exe
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.pdb
+D:\udemy\cSharpCode\NetFramework.S19.D2.KullaniciGirisUygulama\obj\Debug\NetFramework.S19.D2.KullaniciGirisUygulama.anaForm.resources
